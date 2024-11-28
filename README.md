@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manu Shukla</h1>
-<h3 align="center">A passionate Machine learning, GenAi enthusiast and a full stack developer</h3>
+<h3 align="center">A passionate Data Analyst ,Machine learning, GenAi enthusiast and a full stack developer</h3>
 <img align="center" alt="coding" width="1200" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 
 - 🌱 I’m currently learning **React, Nextjs, Full stack , Big data**
