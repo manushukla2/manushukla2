@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manushukla2&" alt="manushukla2" /></p>
 
-
+![Metrics](https://metrics.lecoq.io/manushukla2?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FNew_York)
