@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/manushukla2?label=Followers&style=social" alt="Followers" />
 </p>
 
-- 🌱 I’m currently learning **React, Nextjs, Full stack , Big data**
+- 🌱 I’m currently learning **React, Nextjs, Full stack, Big data**
 
 - 💬 Ask me about **Machine Learning, Deep learning**
 
