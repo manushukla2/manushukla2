@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" style="background:#0d1117">
+
+  <!-- Current Streak -->
+  <rect x="30" y="15" width="250" height="90" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="155" y="45" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#555">Current Streak</text>
+  <text x="155" y="80" text-anchor="middle" font-family="Courier New,monospace" font-size="32" fill="#39d353" opacity="0">
+    1 days
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+  </text>
+
+  <!-- Longest Streak -->
+  <rect x="305" y="15" width="250" height="90" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="430" y="45" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#555">Longest Streak</text>
+  <text x="430" y="80" text-anchor="middle" font-family="Courier New,monospace" font-size="32" fill="#58a6ff" opacity="0">
+    7 days
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+  </text>
+
+  <!-- Total Contributions -->
+  <rect x="580" y="15" width="250" height="90" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="705" y="45" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#555">Total Contributions</text>
+  <text x="705" y="80" text-anchor="middle" font-family="Courier New,monospace" font-size="32" fill="#f0883e" opacity="0">
+    96
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
+  </text>
+
+</svg>

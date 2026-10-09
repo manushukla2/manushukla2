@@ -19,6 +19,11 @@
 
 <br><br>
 
+<h3><code>manu@github ~ $ ./streak.sh</code></h3>
+<img src="./streak.svg" width="860" />
+
+<br><br>
+
 <h3><code>manu@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
