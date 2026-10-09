@@ -1,13 +1,18 @@
 ﻿def make_info_card(output_path="info-card.svg"):
     lines = [
         ("", "manushukla2@github", "#39d353"),
-        ("", "-" * 30, "#555"),
-        ("OS", "Windows 11 + WSL2", "#58a6ff"),
-        ("Role", "Software Engineer", "#58a6ff"),
-        ("Now", "RAG · LangGraph · BFSI AI", "#58a6ff"),
-        ("Stack", "Python · FastAPI · Pinecone · Groq", "#58a6ff"),
-        ("DB", "Supabase · Redshift · Pinecone", "#58a6ff"),
-        ("Study", "FAANG DSA Prep", "#58a6ff"),
+        ("", "-" * 32, "#555"),
+        ("Role", "Software Engineer (AI/ML)", "#58a6ff"),
+        ("Agentic", "LangGraph · CrewAI · AutoGen", "#58a6ff"),
+        ("Harness", "LangChain · LlamaIndex · Haystack", "#58a6ff"),
+        ("Graphs", "LangGraph · DAG · State Machines", "#58a6ff"),
+        ("LLMs", "Qwen3 · LLaMA 70B · NLLB-200", "#58a6ff"),
+        ("Infra", "vLLM · QLoRA · Prompt Eng.", "#58a6ff"),
+        ("ML/DL", "TensorFlow · Keras · UNet · VLMs", "#58a6ff"),
+        ("Vector", "Pinecone · ChromaDB · FAISS", "#58a6ff"),
+        ("Stack", "Python · FastAPI · Next.js · Docker", "#58a6ff"),
+        ("System", "Multi-Tenant · RBAC · Azure · CI/CD", "#58a6ff"),
+        ("Cloud", "Azure A100 · AWS · Nginx · Keycloak", "#58a6ff"),
         ("", "", ""),
         ("Projects", "dealsense · API-Forge · Nimbus", "#f0883e"),
         ("", "", ""),
@@ -46,7 +51,8 @@
             f'</g>'
         )
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{svg_w}" height="{svg_h}" style="background:#0d1117">
+    svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="{svg_w}" height="{svg_h}" style="background:#0d1117">
 {''.join(elements)}
 </svg>"""
 
